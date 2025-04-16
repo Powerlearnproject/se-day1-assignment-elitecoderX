@@ -118,3 +118,4 @@ Prompt engineering enhances the precision and relevance of AI responses, crucial
 - and **concise** (directs exactly what information is needed).
 
 This results in a more structured, useful, and relevant output from the AI.
+----
